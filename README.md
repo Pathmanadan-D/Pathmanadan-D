@@ -1,3 +1,4 @@
+![logo](https://github.com/Pathmanadan-D/Pathmanadan-D/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Dabositha</h1>
 <h3 align="center">BSc IT Student | Passionate About Web Development, AI & Cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
