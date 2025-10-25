@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeframe_dev" target="blank"><img src="https://img.shields.io/twitter/follow/codeframe_dev?logo=twitter&style=for-the-badge" alt="codeframe_dev" /></a> </p>
 
-- 🔭 I’m currently working on [CodeFrame.dev – a digital eBook project about the Java learning roadmap](https://www.instagram.com/codeframe.dev)
+- 🔭 I’m currently working on CodeFrame.dev – a digital eBook project about the Java learning roadmap [Codefram.dev](https://www.instagram.com/codeframe.dev)
 
 - 🌱 I’m currently learning **Web development, cybersecurity fundamentals, and AI integration in projects**
 
