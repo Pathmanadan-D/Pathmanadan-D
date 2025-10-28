@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeframe_dev" target="blank"><img src="https://img.shields.io/twitter/follow/codeframe_dev?logo=twitter&style=for-the-badge" alt="codeframe_dev" /></a> </p>
 
-- 🔭 I’m currently working on CodeFrame.dev – a digital eBook project about the Java learning roadmap [Codefram.dev](https://www.instagram.com/codeframe.dev)
+- 🔭 I’m currently working on CodeFrame.dev – a digital eBook project about the Java learning roadmap [Codeframe.dev](https://www.instagram.com/codeframe.dev)
 
 - 🌱 I’m currently learning **Web development, cybersecurity fundamentals, and AI integration in projects**
 
@@ -16,9 +16,13 @@
 
 - 🤝 I’m looking for help with **Advanced web development workflow, real-world project workflows, and UI/UX design skills**
 
+- 👨‍💻 All of my projects are available at [https://dabositha.framer.website](https://dabositha.framer.website)
+
 - 💬 Ask me about **UI/UX tools (Figma, Framer, Canva), GitHub setup, and beginner-level Java concepts**
 
 - 📫 How to reach me **pdabositha21@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v4pwcjRSXNeEaR1lth8hlOJ871iOY1tc/view?usp=drive_link](https://drive.google.com/file/d/1v4pwcjRSXNeEaR1lth8hlOJ871iOY1tc/view?usp=drive_link)
 
 - ⚡ Fun fact **I turn coffee ☕ into creative digital ideas 💡**
 
