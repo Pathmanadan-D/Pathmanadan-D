@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with **Advanced web development workflow, real-world project workflows, and UI/UX design skills**
 
-- 👨‍💻 All of my projects are available at [https://dabositha.framer.website](https://dabositha.framer.website)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dabositha.framer.website)
 
 - 💬 Ask me about **UI/UX tools (Figma, Framer, Canva), GitHub setup, and beginner-level Java concepts**
 
 - 📫 How to reach me **pdabositha21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v4pwcjRSXNeEaR1lth8hlOJ871iOY1tc/view?usp=drive_link](https://drive.google.com/file/d/1v4pwcjRSXNeEaR1lth8hlOJ871iOY1tc/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v4pwcjRSXNeEaR1lth8hlOJ871iOY1tc/view?usp=drive_link)
 
 - ⚡ Fun fact **I turn coffee ☕ into creative digital ideas 💡**
 
